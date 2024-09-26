@@ -1,0 +1,27 @@
+@import url(<link href="https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Dots:wght@400..700&family=Playwrite+DE+Grund:wght@100..400&display=swap" rel="stylesheet");
+@import url(<link href="https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap" rel="stylesheet">);
+
+body{
+    background-image: linear-gradient(100deg,rgb(101, 225, 232),white);
+  }
+  h4{
+    color: rgb(253, 4, 4);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small ;
+  }
+    p1{
+        font-family: "Sofadi One", system-ui;
+        font-weight: 5000;
+        color: rgba(25, 73, 2, 0.904);
+        line-height: 2em;
+    }
+    
+    p2
+    {
+        font-family: "Sofadi One", system-ui;
+        font-weight: 5000;
+        color: rgba(25, 73, 2, 0.904);
+        line-height: 2em;
+    }
+    
+    
